@@ -34,6 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/1985c7e0-dbc1-4096-8a2c-82dbda032362)
 ![image](https://github.com/user-attachments/assets/df70c808-cabb-468f-be22-99d648b643ce)
+Paste the copied command on git bash. It will enable ubuntu environment, by connecting Ec2 
 ![image](https://github.com/user-attachments/assets/c9294d40-10a5-4cef-8861-8267338fda10)
 ![image](https://github.com/user-attachments/assets/16c2f65a-ae2a-4aed-80a5-ff16b61b6d08)
 ![image](https://github.com/user-attachments/assets/5f727f1a-27d2-48a1-9b23-f38c1e6e2ce5)
