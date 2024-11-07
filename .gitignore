@@ -1,0 +1,19 @@
+placement.pem
+# Ignore Python bytecode
+*.pyc
+*.pyo
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore the model file
+model.pkl
