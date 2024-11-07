@@ -1,4 +1,6 @@
 # ML_model_aws_deploy
+Firstly make sure to have model.pkl file by running the given jupyter notebook. 
+![image](https://github.com/user-attachments/assets/150c9f81-aedd-4f01-b453-cc4e1139152f)
 
 ### Step 1: Launch EC2 Instance
 1. Log in to the AWS Console.
@@ -44,15 +46,13 @@ Paste the copied command on git bash. It will enable ubuntu environment, by conn
 ![image](https://github.com/user-attachments/assets/df4ac47c-46db-4dc4-9871-f223b07c8790)
 ![image](https://github.com/user-attachments/assets/b1630b93-ff40-49d2-abde-d043b2013e1c)
 
+Now open the normal git bash in a new terminal, and paste the following command to transfer files from local to the ec2 environment via WinSCP. 
 If your project folder is located at `C:\Users\YourName\Desktop\flask-app`, the command would look like this:
 
-```bash
-scp -i placement.pem C:/Users/YourName/Desktop/flask-app/* ubuntu@ec2-18-208-232-118.compute-1.amazonaws.com:/home/ubuntu/flask-app/
-```
 
 ![image](https://github.com/user-attachments/assets/8e06702d-1e07-42b4-8350-0c166d19fe4c)
 ![image](https://github.com/user-attachments/assets/7dc42364-8413-497d-88a3-ad9c4b6eb92e)
-![image](https://github.com/user-attachments/assets/150c9f81-aedd-4f01-b453-cc4e1139152f)
+
 ![image](https://github.com/user-attachments/assets/ad1b83e9-5731-4422-8d47-5e5745fa5f05)
 ```
 
