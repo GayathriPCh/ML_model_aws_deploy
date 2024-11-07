@@ -1,5 +1,5 @@
 # ML_model_aws_deploy
-Firstly make sure to have model.pkl file by running the given jupyter notebook. 
+Firstly make sure to have model.pkl file by running the given jupyter notebook. Before that make sure you've got a student_placements.csv.
 ![image](https://github.com/user-attachments/assets/150c9f81-aedd-4f01-b453-cc4e1139152f)
 
 ### Step 1: Launch EC2 Instance
